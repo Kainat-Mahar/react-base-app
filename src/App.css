@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.App-footer{
+  border: 3px solid none;
+  background-color: #40E0D0;
+  text-align: center;
+}
